@@ -1,4 +1,4 @@
-CS6910 Assignment 3: Transliteration Task
+CS6910 Assignment 3: Neural Machine Transliteration Task
 
 This assignment focuses on the transliteration task, specifically translating from English to various Indic languages. The implementation provided here is for translating from English to Tamil.
 
